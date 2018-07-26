@@ -1,0 +1,30 @@
+body {
+    background: lightgray;
+}
+nav {
+    background: gray;
+    height: 10vh;
+}
+
+.center {
+    background: white;
+    height: 90vh;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 80vh;
+}
+
+#bottom-box {
+    height: 10vh;
+    width: 100%;
+    background: black;
+    
+}
+
+/* #footer {
+    height: 10vh;
+    width: 70%;
+    position: fixed;
+    bottom: 0;
+    background: black;
+} */

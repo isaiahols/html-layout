@@ -1,0 +1,70 @@
+body {
+    background: lightgray;
+    padding: 2.5%;
+}
+
+.first {
+    /* background: lightgreen; */
+    height: 25vh;
+    width: 100%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 1vh;
+}
+
+.second {
+    /* background: rgb(26, 126, 26); */
+    height: 25vh;
+    width: 100%;
+    margin: 2.5% 0;
+    border-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    padding: 3vh;
+}
+
+.third {
+    /* background: lightgreen; */
+    height:30vh;
+    width: 40%;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    box-shadow: 10px 8px 11px 0px rgba(0, 0, 0, 0.2), 10px 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    font-size: 2.5em;
+    padding: 12vh;
+}
+.first>div {
+    float: left;
+}
+
+#smallrec {
+    height: 70%;
+    width: 5%;
+    background: purple;
+    margin-top: 5%;
+}
+
+#bigrec {
+    height: 100%;
+    width: 40%;
+    background: green;
+    margin: 0% 5%;
+}
+
+#circle {
+    height: 22vh;
+    width: 22vh;
+    background: lightblue;
+    border-radius: 2500px
+}
+
+#shadow {
+    height: 100%;
+    width: 100%;
+    background: tan;
+    box-shadow: 10px 8px 5px 0px rgba(0, 0, 0, 0.7), 10px 6px 20px 0 rgba(0, 0, 0, 0.7);
+}

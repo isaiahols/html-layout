@@ -1,0 +1,50 @@
+body {
+    background: green;
+}
+
+header {
+    background: gray;
+    width: 100%;
+    height: 12vh;
+    padding: 1vh;
+}
+
+#bluebox {
+    background: blue;
+    width: 10vh;
+    height: 10vh; 
+    margin-left: 2vh;
+}
+
+#words {
+    background: white;
+    width: 100%;
+    height: 40vh;
+    padding: 4%;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+#one {
+    background: lightblue;
+    width: 100%;
+    height: 12vh;
+}
+
+#two {
+    background: teal;
+    width: 100%;
+    height: 12vh;
+}
+
+#three {
+    background: yellowgreen;
+    width: 100%;
+    height: 12vh;
+}
+
+#four {
+    background: yellow;
+    width: 100%;
+    height: 12vh;
+}
